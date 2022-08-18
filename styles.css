@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+3@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 * {
     padding:0;
     margin:0;
@@ -28,7 +28,7 @@ body {
     background-color: var(--White);
     padding: 1.25rem;
     border-radius: 0.625rem;
-    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
     margin-bottom: 2rem;
 }
 .container img {
